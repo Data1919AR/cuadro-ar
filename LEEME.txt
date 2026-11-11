@@ -1,0 +1,7 @@
+CUADRO AR STAR TREK - carpeta para GitHub Pages
+Vídeo: batalla con el dragón -> teletransporte clásico -> la pareja leyendo el cómic en el sofá (22 s).
+Archivos: index.html (la página), video.mp4, objetivo.mind (imagen de reconocimiento),
+aframe.min.js y mindar-image-aframe.prod.js (librerías), imagen_a_enfocar.png (para probar en pantalla).
+Dirección: https://data1919ar.github.io/cuadro-ar/
+Sube TODO el contenido de esta carpeta a la raíz de un repositorio público de GitHub y activa Pages.
+La imagen que se imprime es imagen_para_imprimir.png (se entrega aparte, no hace falta subirla).
